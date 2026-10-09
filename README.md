@@ -1,36 +1,69 @@
-### Oi, eu sou Murilo Araujo · aka Ghst 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-night.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-day.gif" />
+  <img src="assets/banner-night.gif" width="100%" alt="Murilo Araujo, aka Ghst: dev full-stack e especialista em FiveM, ao lado de um quarto em pixel art" />
+</picture>
 
-Dev full-stack, especialista em **FiveM** há 7 anos e bacharel em **Direito**.
-Faço do script de gameplay à interface, passando pelo backend e pela infraestrutura que mantém o servidor de pé.
+<p align="center">
+  <a href="https://ghst.com.br"><img src="assets/button-site.png" height="44" alt="ghst.com.br" /></a>
+  <a href="https://www.linkedin.com/in/contatoamla/"><img src="assets/button-linkedin.png" height="44" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/170686037138341888"><img src="assets/button-discord.png" height="44" alt="Discord" /></a>
+  <a href="mailto:contatoamla@gmail.com"><img src="assets/button-email.png" height="44" alt="E-mail" /></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=8B949E&vCenter=true&width=520&height=24&lines=Lua+%C2%B7+TypeScript+%C2%B7+Go;NUI+em+React+para+FiveM;APIs%2C+pain%C3%A9is+e+infra+de+servidores" alt="Lua · TypeScript · Go" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=3000&pause=1200&color=3E7FDC&center=true&vCenter=true&width=600&height=32&lines=Lua+%C2%B7+React+%C2%B7+Node+%C2%B7+Go;Sistemas+para+servidores+FiveM;Bacharel+em+Direito+que+escolheu+o+c%C3%B3digo" alt="Lua · React · Node · Go" />
+</p>
 
-**Trajetória**
+<img src="assets/divider.png" width="100%" alt="" />
 
-- **2019, o começo:** entrei na programação pelo FiveM, escrevendo scripts em Lua para servidores de roleplay.
-- **Das NUIs para a web:** as interfaces in-game me levaram ao React e ao TypeScript, e daí ao desenvolvimento web completo.
-- **Backend e infra:** passei a construir as APIs, os bancos e os deploys por trás dos servidores, em Node.js, NestJS e Go, com Docker.
-- **Hoje:** atuo como full-stack em sistemas FiveM de ponta a ponta, produtos SaaS e plataformas que processam grande volume de dados em tempo real.
-- **Direito:** a formação me dá outro olhar sobre contratos, termos de uso e privacidade de dados, que fazem parte de todo produto.
+### 👾 Quem é o Ghst
 
-**O que eu faço**
+Sou Murilo Araujo, mas na comunidade todo mundo me chama de Ghst. Comecei a programar em 2019 escrevendo scripts em Lua para servidores de roleplay no FiveM e nunca mais parei. Hoje trabalho como full-stack: penso o sistema, construo a interface, escrevo a API e cuido de onde tudo isso roda.
 
-- Sistemas de gameplay para FiveM: organizações, empregos, economia, crafting, corridas e veículos
-- Interfaces NUI e painéis web em React + TypeScript
-- APIs e serviços em Node.js, NestJS e Go
-- Infra: bancos de dados, cache, filas de logs, Docker e monitoramento
+E sim, sou bacharel em Direito. Troquei o Vade Mecum pelo VS Code e não me arrependo: o Direito não virou profissão, mas me deixou um olhar mais aguçado para a vida.
 
-**Stack**
+**Missões**
+
+1. Fazer o bem
+2. Ser a diferença
+3. Trazer soluções
+
+<img src="assets/divider.png" width="100%" alt="" />
+
+### 🗺️ Trajetória
+
+`Lv.1` **Primeiro spawn** · Freelance · _2019 — atual_\
+Scripts em Lua que viraram trabalho: freelas e consultorias criando sistemas, interfaces e integrações em produção.
+
+`Lv.2` **Das NUIs para a web** · Evolução\
+As interfaces dentro do jogo me levaram ao React e ao TypeScript; depois vieram Node.js, NestJS, bancos de dados e Docker.
+
+`Lv.3` **Loja própria** · Ghst.store · 🚩 _desativada temporariamente_\
+Plataforma de venda de scripts FiveM com licenças automáticas, painel do cliente e integração com Discord.
+
+`Lv.4` **Liderança técnica** · LesteGroup · _Ago 2025 — Dez 2025_\
+Tech Lead do grupo da Fronteira Leste e desenvolvedor integral do Lado Leste.
+
+`Lv.5` **Missão atual** ⭐ · WinsVue · _Dez 2025 — atual_\
+Sistemas, interfaces, integrações e sustentação de todos os servidores do portfólio da WinsVue.
+
+<img src="assets/divider.png" width="100%" alt="" />
+
+### 🎒 Inventário
 
 <img src="https://skillicons.dev/icons?i=lua,ts,js,go,react,nextjs,vue,tailwind,vite,nodejs,nestjs,express,postgres,mysql,mongodb,redis,prisma,docker,linux,git&perline=10" alt="Lua, TypeScript, JavaScript, Go, React, Next.js, Vue, Tailwind, Vite, Node.js, NestJS, Express, PostgreSQL, MySQL, MongoDB, Redis, Prisma, Docker, Linux, Git" />
 
-Também: Fastify · ClickHouse · Zod
+Também: Fastify · ClickHouse
 
-**Sobre o código**
+<img src="assets/divider.png" width="100%" alt="" />
 
-A maior parte do que eu construo é para clientes e empresas, então fica em repositórios privados.
-Projetos abertos vão aparecendo por aqui aos poucos.
+### 📦 Projeto aberto
 
-**Contato**
+**[portfolio](https://github.com/anthony-amla/portfolio)**: o meu site, [ghst.com.br](https://ghst.com.br). Um quarto isométrico em pixel art desenhado em canvas, trilha chiptune gerada no navegador, português e inglês, e deploy no Cloudflare Pages. React, Vite e uma função serverless para o formulário de contato.
 
-[Discord](https://discord.com/users/170686037138341888) · [LinkedIn](https://www.linkedin.com/in/contatoamla/) · [E-mail](mailto:contatoamla@gmail.com)
+O resto do que eu construo é para clientes e empresas, então fica em repositórios privados.
+
+<img src="assets/divider.png" width="100%" alt="" />
+
+<p align="center"><sub>Cada pixel feito com carinho · <a href="https://ghst.com.br">ghst.com.br</a></sub></p>
